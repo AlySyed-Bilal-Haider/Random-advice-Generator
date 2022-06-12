@@ -1,0 +1,36 @@
+.main-container .Main{
+  margin: auto;
+  position: relative;
+  top: 30%;
+  width:40%;
+  min-height:20%;
+  border-radius:6px;
+  -webkit-border-radius:6px;
+  -moz-border-radius:6px;
+  -ms-border-radius:6px;
+  -o-border-radius:6px;
+  padding:20px;
+  background-color:whitesmoke;
+  text-align: center;
+  box-shadow: 5px 5px 5px lightgray;
+}
+.main-container .Main button{
+  width:80px;
+  height: 40px;
+  background-color:skyblue;
+  border-radius:6px;
+  -webkit-border-radius:6px;
+  -moz-border-radius:6px;
+  -ms-border-radius:6px;
+  -o-border-radius:6px;
+  border:none;
+  outline: none;
+  font-weight: bold;
+  color: brown;
+
+}
+.main-container .Main button:hover{
+  cursor: pointer;
+  background-color: brown;
+  color: white;
+}
